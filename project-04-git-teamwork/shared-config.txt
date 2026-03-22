@@ -1,0 +1,5 @@
+# Team shared config
+project_name=linux-sysadmin-projects
+owner=bharath
+version=1.0
+team_lead=bharath
